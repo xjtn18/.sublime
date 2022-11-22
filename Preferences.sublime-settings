@@ -13,7 +13,9 @@
 	"caret_style": "smooth",
 	"highlight_line": true,
 	"hot_exit_projects": false,
-	"auto_complete": false,
+	"translate_tabs_to_spaces": true,
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_delay": 10000,
 
 	"margin": 4,
 	"line_padding_top": 1,
